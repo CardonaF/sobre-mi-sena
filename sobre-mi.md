@@ -11,6 +11,10 @@ Las tecnologías con las que he trabajado son Html5, Css3, JavaScript, TypeScrip
 
 Mi correo de contacto: felipecardonaa21@gmail.com
 
+Buscando siempre crecer!!
+
+
+
 Proyectos sena:
 
 - Mi receta:
