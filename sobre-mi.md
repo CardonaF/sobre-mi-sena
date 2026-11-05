@@ -9,6 +9,7 @@ intuitivas y agradables para el usuario.
 
 Las tecnologías con las que he trabajado son Html5, Css3, JavaScript, TypeScript, Angular, Python, Java, Sql
 
+Mi correo de contacto: felipecardonaa21@gmail.com
 
 Proyectos sena:
 
