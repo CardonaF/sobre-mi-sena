@@ -7,6 +7,8 @@ Me apasiona el desarrollo web, aprender nuevas tecnologías
 y crear aplicaciones modernas con interfaces limpias,
 intuitivas y agradables para el usuario.
 
+Las tecnologías con las que he trabajado son Html5, Css3, JavaScript, TypeScript, Angular, Python, Java, Sql
+
 
 Proyectos sena:
 
