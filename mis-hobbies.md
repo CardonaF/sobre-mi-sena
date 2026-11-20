@@ -1,1 +1,1 @@
-..
+Me gusta muchisimo jugar futbol, jugar videojuegos y programar, esos serian mis hobbies
